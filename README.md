@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bryan Hinojosa</h1>
-<h3 align="justify">Data Science specialist with experience in data analysis, programming, and customer service. I have a strong background in sales, technical support, and client retention, standing out for my analytical mindset, results-driven approach, and excellent communication skills. I’ve led and collaborated on multiple data projects involving Machine Learning models, data visualization, and statistical analysis using tools like Python, SQL, and R. Additionally, I have international experience as a virtual assistant and customer support representative for U.S.-based companies, and an academic foundation in Criminology and Forensic Techniques.</h3>
+<h3 align="justify">Goals and Objectives
+
+My main goal is to continue growing as a data science and analytics professional, applying my knowledge to create real value for companies and support strategic decision-making. I aim to establish myself in a role where I can combine my background in sales and customer service with my analytical skills, delivering data-driven solutions to real-world challenges. I'm also committed to ongoing learning, with a focus on SQL, Python, data visualization tools, and web application deployment platforms like Streamlit. In the medium term, I’m interested in launching my own tech venture and scaling my current tire-selling business by integrating digital solutions that boost its growth.
+
+Career and Achievements
+
+I hold a degree in Criminology and Criminalistics, which has given me a structured and analytical approach to problem-solving. I have built solid experience in sales and customer service, and I’m currently enhancing my technical skill set through a Data Science bootcamp at TripleTen, which I started in 2024 and am set to complete in about a month. Throughout the program, I’ve been working on hands-on projects involving data analysis, visualization, and machine learning, applied to industries such as gaming, mining, and automotive. I’m also currently working as an appointment setter for an insurance agency, where I continue to sharpen my communication and organizational abilities.</h3>
 
 - 🔭 I’m currently working on **Customer Retention Specialist**
 
