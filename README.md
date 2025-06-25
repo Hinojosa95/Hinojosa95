@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryan Hinojosa</h1>
-
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="100%">
 </p>
+<h1 align="center">Hi 👋, I'm Bryan Hinojosa</h1>
 
 <h3 align="justify">Goals and Objectives
 
