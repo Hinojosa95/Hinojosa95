@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bryan Hinojosa</h1>
+
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="100%">
+</p>
+
 <h3 align="justify">Goals and Objectives
 
 My main goal is to continue growing as a data science and analytics professional, applying my knowledge to create real value for companies and support strategic decision-making. I aim to establish myself in a role where I can combine my background in sales and customer service with my analytical skills, delivering data-driven solutions to real-world challenges. I'm also committed to ongoing learning, with a focus on SQL, Python, data visualization tools, and web application deployment platforms like Streamlit. In the medium term, I’m interested in launching my own tech venture and scaling my current tire-selling business by integrating digital solutions that boost its growth.
