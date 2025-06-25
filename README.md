@@ -18,7 +18,6 @@ I combine my technical knowledge with solid experience in sales and customer ser
 - **Programming Languages:** Python, SQL, R, Java (Spring)
 - **Data Analysis:** Pandas, Sci-kit Learn, Plotly
 - **Visualization Tools:** Tableau, Power BI
-- **Cloud Platforms:** AWS, IBM Cloud
 - **Other Tools:** Excel, MySQL
 
 <div id="header" align="left">
@@ -32,6 +31,4 @@ I combine my technical knowledge with solid experience in sales and customer ser
     <img decoding="async" src="https://img.shields.io/badge/Java_(Spring)-6DB33F?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
     <img decoding="async" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
     <img decoding="async" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/>
-    <img decoding="async" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
-    <img decoding="async" src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" alt="ibmcloud"/>
 </div>
