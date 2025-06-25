@@ -5,11 +5,12 @@
 
 <h3 align="justify">Goals and Objectives
 
-My main goal is to continue growing as a data science and analytics professional, applying my knowledge to create real value for companies and support strategic decision-making. I aim to establish myself in a role where I can combine my background in sales and customer service with my analytical skills, delivering data-driven solutions to real-world challenges. I'm also committed to ongoing learning, with a focus on SQL, Python, data visualization tools, and web application deployment platforms like Streamlit. In the medium term, I’m interested in launching my own tech venture and scaling my current tire-selling business by integrating digital solutions that boost its growth.
+I'm a Data Scientist in training with a background in Criminology and Criminalistics, which has provided me with a strong analytical mindset and a structured approach to problem-solving. I'm currently enrolled in the Data Science bootcamp at TripleTen (2024), where I’ve worked on hands-on projects across industries such as gaming, mining, and automotive. My technical skill set includes Python, SQL, data visualization (using Plotly, Seaborn, and Matplotlib), and web app development with Streamlit.
 
-Career and Achievements
+I combine my technical knowledge with solid experience in sales and customer service, allowing me to approach business needs from multiple perspectives. I'm a proactive, organized communicator with a strong sense of initiative and critical thinking. I'm open to new professional opportunities where I can continue learning, contribute with data-driven solutions, and grow alongside innovative teams.
 
-I hold a degree in Criminology and Criminalistics, which has given me a structured and analytical approach to problem-solving. I have built solid experience in sales and customer service, and I’m currently enhancing my technical skill set through a Data Science bootcamp at TripleTen, which I started in 2024 and am set to complete in about a month. Throughout the program, I’ve been working on hands-on projects involving data analysis, visualization, and machine learning, applied to industries such as gaming, mining, and automotive. I’m also currently working as an appointment setter for an insurance agency, where I continue to sharpen my communication and organizational abilities.</h3>
+📩 hinojosa.95@icloud.com
+🔗 https://github.com/Hinojosa95.</h3>
 
 - 🔭 I’m currently working on **Customer Retention Specialist**
 
