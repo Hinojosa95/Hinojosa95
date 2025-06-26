@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Hinojosa</h1>
 
 ---
-I'm a Data Scientist in training with a background in Criminology and Criminalistics, which has provided me with a strong analytical mindset and a structured approach to problem-solving. I'm currently enrolled in the Data Science bootcamp at TripleTen (2024), where I’ve worked on hands-on projects across industries such as gaming, mining, and automotive. My technical skill set includes Python, SQL, data visualization (using Plotly, Seaborn, and Matplotlib), and web app development with Streamlit.
+I'm a Data Scientist a background in Criminology and Criminalistics, which has provided me with a strong analytical mindset and a structured approach to problem-solving. I’ve worked on hands-on projects across industries such as gaming, mining, and automotive. My technical skill set includes Python, SQL, data visualization (using Plotly, Seaborn, and Matplotlib), and web app development with Streamlit.
 
 I combine my technical knowledge with solid experience in sales and customer service, allowing me to approach business needs from multiple perspectives. I'm a proactive, organized communicator with a strong sense of initiative and critical thinking. I'm open to new professional opportunities where I can continue learning, contribute with data-driven solutions, and grow alongside innovative teams.
 
